@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Vetrixdois/Vetrixdois/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vetrixdois/Vetrixdois/output/snake.svg" alt="Snake animation" />
 
 ###
